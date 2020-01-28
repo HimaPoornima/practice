@@ -12,7 +12,7 @@
 #
 #
 Jmeter window in GUI mode
- ![Jmeter window](screenshots/ApacheJmeterSnap.png)
+ ![Jmeter window](/screenshots/ApacheJmeterSnap.png)
 
 
 # Create and Run new Test Plan in Jmeter
@@ -34,7 +34,7 @@ Jmeter window in GUI mode
 
   - Go to File menu->Open (select the jmx file that you want to run).
   - Run the testplan 
-  ![Jmeter window](screenshots/RunTestPlan.png)
+  ![Jmeter window](/screenshots/RunTestPlan.png)
   
 # Performance comparison of Vert.x and Springboot
 
