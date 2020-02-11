@@ -13,7 +13,11 @@
 #
 #
 Jmeter window in GUI mode
+<<<<<<< HEAD
  ![Jmeter window](/test/screenshots/ApacheJmeterSnap.png)
+=======
+ ![Jmeter window](/screenshots/ApacheJmeterSnap.png)
+>>>>>>> 4af58db745c32742e568fd4831ed911ab93cf4f6
 
 
 # Create and Run a new Test Plan in Jmeter
@@ -37,9 +41,18 @@ Jmeter window in GUI mode
   - Already existing file has the data to be posted and port numbers according to which mentioned in application.properties.
     - Note: Before running the test plan,make sure to change the port numbers in HTTP Request Sampler if you are using different ports.
   - Run the testplan as shown in below screenshot.
+<<<<<<< HEAD
   ![Jmeter window](/test/screenshots/RunTestPlan.png)
+=======
+  ![Jmeter window](/screenshots/RunTestPlan.png)
+>>>>>>> 4af58db745c32742e568fd4831ed911ab93cf4f6
   - Results can be viewed in TestPlan after running it.
   
 # Performance comparison of Vert.x and Springboot
 
+<<<<<<< HEAD
 For more information, refer to the word document which is added in the folder test 
+=======
+For more information, refer to the word document which is added in the folder test 
+
+>>>>>>> 4af58db745c32742e568fd4831ed911ab93cf4f6
